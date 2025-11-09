@@ -1,0 +1,52 @@
+{
+  "mods": [
+    {
+      "name": "BiggerCraftQueue",
+      "author": "RevenantKitsune",
+      "version": "1.0",
+      "compatibility": "ALL",
+      "description": "Increases the max number of items that can be queued in most benches",
+      "files":  
+        "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/blob/Icarus/BiggerCraftQueue.EXMODZ"
+      },
+      "imageURL": "A direct download URL to an image that will be displayed in the mod list (optional)",
+      "readmeURL": "A link to the 'raw' version of your mod's README"
+    },
+    {
+      "name": "CowNChickenOverhaul",
+      "author": "RevenantKitsune",
+      "version": "1.0",
+      "compatibility": "ALL",
+      "description": "Speeds up the production speed of milk and eggs from cows and chickens",
+      "files": {
+        "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/blob/Icarus/CowNChickenOverhaul.EXMODZ"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
+    },
+    {
+      "name": "RevFirstCohortImproved",
+      "author": "RevenantKitsune",
+      "version": "1.0",
+      "compatibility": "ALL",
+      "description": "Increased mod slots to 4 and adds a 15% xp bonus to the First Cohort Suit",
+      "files": {
+        "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/blob/Icarus/RevFirstCohortImproved.EXMODZ"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
+    },
+     {
+      "name": "Revs_UbisMount_Improved",
+      "author": "RevenantKitsune",
+      "version": "1.0",
+      "compatibility": "ALL",
+      "description": "Overhaul to the Ubis Mount talent tree. Works great alongside Jim's Moa Upgrade.",
+      "files": {
+        "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/blob/Icarus/Revs_UbisMount_Improved.EXMODZ"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
+    }
+  ]
+}
