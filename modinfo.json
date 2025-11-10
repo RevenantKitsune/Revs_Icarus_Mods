@@ -9,8 +9,8 @@
             "files": {
                 "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/raw/refs/heads/Icarus/BiggerCraftQueue.EXMODZ"
             },
-            "imageURL": "A direct download URL to an image that will be displayed in the mod list (optional)",
-            "readmeURL": "A link to the 'raw' version of your mod's README"
+            "imageURL": "",
+            "readmeURL": ""
         },
         {
             "name": "CowNChickenOverhaul",
@@ -21,8 +21,8 @@
             "files": {
                 "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/raw/refs/heads/Icarus/CowNChickenOverhaul.EXMODZ"
             },
-            "imageURL": "see below",
-            "readmeURL": "see below"
+            "imageURL": "",
+            "readmeURL": ""
         },
         {
             "name": "RevFirstCohortImproved",
@@ -33,8 +33,8 @@
             "files": {
                 "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/raw/refs/heads/Icarus/RevFirstCohortImproved.EXMODZ"
             },
-            "imageURL": "see below",
-            "readmeURL": "see below"
+            "imageURL": "",
+            "readmeURL": ""
         },
         {
             "name": "Revs_UbisMount_Improved",
@@ -45,8 +45,8 @@
             "files": {
                 "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/raw/refs/heads/Icarus/Revs_UbisMount_Improved.EXMODZ"
             },
-            "imageURL": "see below",
-            "readmeURL": "see below"
+            "imageURL": "",
+            "readmeURL": ""
         }
     ]
 }
