@@ -51,10 +51,9 @@
         {
             "name": "Revs_Total_Mount_Overhaul",
             "author": "RevenantKitsune",
-            "version": "1.2",
+            "version": "1.3",
             "compatibility": "ALL",
-            "description": "A significant uplift of all the mount talent trees and some of the other tames as well. Includes my Ubis mount improvements and mirrors Jim's Moa Upgrade",
-            "files": {
+            "description": "A mod that buffs the talent trees of most mounts (just not mammoth yet) and many of the tameable creatures.": {
                 "exmodz": "https://github.com/RevenantKitsune/Revs_Icarus_Mods/raw/refs/heads/Icarus/Revs_Total_Mount_Overhaul.EXMODZ"
             },
             "imageURL": "",
